@@ -138,7 +138,7 @@ Có thể tham khảo:
 ---
 
 # 🗺️ Gợi ý cách luyện
- d
+
 Nếu mới bắt đầu:
 
 **VNOI Wiki → VNOI OJ → NEU Codelab**
